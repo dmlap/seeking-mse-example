@@ -33,4 +33,4 @@ Ideally, there would be some way to adjust the position of the already
 buffered data for segment D rather than removing it and having to
 re-buffer:
 
-![adjusted timeline](seeking-across-discontinuities-4.png)
+![adjusted timeline](seeking-across-discontinuities-5.png)
